@@ -1,0 +1,10 @@
+*.xcodeproj
+DerivedData/
+build/
+.build/
+xcuserdata/
+.DS_Store
+Spread/Info.plist
+
+# Launch video work in progress (large renders, cloned shader repo)
+brag-video/
